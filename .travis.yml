@@ -3,7 +3,7 @@ cache:
   directories:
   - $HOME/.m2
 jdk: oraclejdk7
-language: android
+language: java
 android:
   components:
     - android-19
